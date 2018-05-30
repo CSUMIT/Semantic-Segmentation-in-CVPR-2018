@@ -9,5 +9,5 @@ Paper list of Semantic Segmentation in CVPR 2018.
 
 [link](https://arxiv.org/abs/1711.09856)
 ```
-[我的博客](http://blog.csdn.net/guodongxiaren) 
-[Context Encoding for Semantic Segmentation](https://arxiv.org/abs/1803.08904)
+
+1. Oral/Poster: [Context Encoding for Semantic Segmentation](https://arxiv.org/abs/1803.08904)
